@@ -1,0 +1,1 @@
+data.raw["car"]["car"].equipment_grid = "medium-equipment-grid"
