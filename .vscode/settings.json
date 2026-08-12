@@ -3,5 +3,15 @@
         "undefined-field",
         "undefined-global",
         "lowercase-global"
-    ]
+    ],
+    "factorio.versions": [
+        {
+            "name": "Steam",
+            "factorioPath": "/home/leo/.steam/debian-installation/steamapps/common/Factorio/bin/x64/factorio"
+        }
+    ],
+    "Lua.workspace.userThirdParty": [
+        "/home/leo/.config/VSCodium/User/workspaceStorage/2dc36b3fa5339636425f80a5d1fb3471/justarandomgeek.factoriomod-debug/sumneko-3rd"
+    ],
+    "Lua.workspace.checkThirdParty": "ApplyInMemory"
 }
